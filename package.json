@@ -3,6 +3,9 @@
   "version": "0.1.7",
   "description": "DSH Tavern 卡片工作台的生图插件：Agent 按世界书规则写提示词，用户确认后调用生图渠道，图片以链接回到对话。",
   "type": "module",
+  "scripts": {
+    "test": "node --test"
+  },
   "main": "lib/index.js",
   "exports": {
     ".": "./lib/index.js",

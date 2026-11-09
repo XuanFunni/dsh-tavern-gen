@@ -32,6 +32,7 @@
   "jpegBackground": "#ffffff",
   "imageSize": "竖图",
   "imageDisplayWidth": 0,
+  "publicOrigin": "",
   "imageEnabled": true,
   "plannerEnabled": false,
   "plannerProvider": "",
